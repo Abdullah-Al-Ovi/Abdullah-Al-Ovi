@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://github.com/Abdullah-Al-Ovi/Abdullah-Al-Ovi/blob/main/assets/github_cover.gif)
 
 <!--
 **Abdullah-Al-Ovi/Abdullah-Al-Ovi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
