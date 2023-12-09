@@ -29,12 +29,14 @@
 </p>
 
 ### Projects:
- #### Shop Sync:
-    * FrontENd : ReactJs
-    * Backend: NodeJs and MongoDb.
-    * Authentication: Firebae.
-    * Authorization : JWT
-    * Live Link: https://shopsync.surge.sh/
+### Shop Sync: 
+  * Frontend : ReactJs
+  * Backend: NodeJs and MongoDb.
+  * Authentication: Firebae.
+  * Authorization : JWT
+  * Live Link: https://shopsync.surge.sh/
+    
+    
 
 
 
