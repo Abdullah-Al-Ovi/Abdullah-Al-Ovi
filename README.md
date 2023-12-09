@@ -28,7 +28,13 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdullah-Al-Ovi&theme=dark" alt="Stats">
 </p>
 
-
+### Projects:
+ #### Shop Sync:
+    * FrontENd : ReactJs
+    * Backend: NodeJs and MongoDb.
+    * Authentication: Firebae.
+    * Authorization : JWT
+    * Live Link: https://shopsync.surge.sh/
 
 
 
