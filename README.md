@@ -16,15 +16,16 @@
 
 ### Current Stats
 
-<div align='center'>
-  ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdullah-Al-Ovi&theme=dark)
-</div>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdullah-Al-Ovi&theme=dark" alt="Profile Details">
+</p>
 
-<div align='center'>
-  ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdullah-Al-Ovi&theme=dark) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdullah-Al-Ovi&theme=dark) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdullah-Al-Ovi&theme=dark)
-</div>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdullah-Al-Ovi&theme=dark" alt="Repos per Language">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdullah-Al-Ovi&theme=dark" alt="Most Commit Language">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdullah-Al-Ovi&theme=dark" alt="Stats">
+</p>
+
 
 
 
