@@ -6,6 +6,8 @@
 - 🎨 Expert in HTML, CSS and JavaScript, transforming ideas into interactive and responsive web applications.
 - 🌐 Proficient in modern frameworks/libraries like React.js, ensuring scalable and maintainable code.
 - 📱 Mobile-First Development advocate, ensuring seamless experiences across devices.
+- 💻 Leverage basic knowledge of Firebase, JWT, ExpressJS, MongoDB, and MySQL for full-stack development exploration.
+- 💻 Continuously learn and explore new technologies and frameworks to stay ahead of the curve.
 
 ### 🛠️ Tech Stack
 <p align="center">
