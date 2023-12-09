@@ -10,11 +10,11 @@
 ### 🛠️ Tech Stack
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=c,html,css,tailwind,javascript,react,nodejs,express,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=c,html,css,tailwind,javascript,react,nodejs,express,mongodb,mysql,jwt" />
   </a>
 </p>
 
-### Current Stats
+### 📈 Current Stats
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdullah-Al-Ovi&theme=dark" alt="Profile Details">
