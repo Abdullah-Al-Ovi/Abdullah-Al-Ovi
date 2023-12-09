@@ -28,13 +28,25 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdullah-Al-Ovi&theme=dark" alt="Stats">
 </p>
 
-### Projects:
+## 📋 Projects:
 ### Shop Sync: 
   * Frontend : ReactJs
   * Backend: NodeJs and MongoDb.
   * Authentication: Firebae.
   * Authorization : JWT
   * Live Link: https://shopsync.surge.sh/
+### Page Turner Library: 
+  * Frontend : ReactJs
+  * Backend: NodeJs and MongoDb.
+  * Authentication: Firebae.
+  * Authorization : JWT
+  * Live Link: https://pageturnerlibrary.surge.sh/
+### Trend Junction: 
+  * Frontend : ReactJs
+  * Backend: NodeJs and MongoDb.
+  * Authentication: Firebae.
+  * Live Link: https: https://trend-junction-shop.surge.sh/
+
     
     
 
