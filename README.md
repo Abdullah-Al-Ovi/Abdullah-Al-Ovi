@@ -1,16 +1,26 @@
-### Hi there 👋
+![](https://github.com/Abdullah-Al-Ovi/Abdullah-Al-Ovi/blob/main/assets/github_cover.gif)
 
-<!--
-**Abdullah-Al-Ovi/Abdullah-Al-Ovi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 What I Do
 
-Here are some ideas to get you started:
+- 💻 Front-End Developer with a keen eye for design and user experience.
+- 🎨 Expert in HTML, CSS and JavaScript, transforming ideas into interactive and responsive web applications.
+- 🌐 Proficient in modern frameworks/libraries like React.js, ensuring scalable and maintainable code.
+- 📱 Mobile-First Development advocate, ensuring seamless experiences across devices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=c,html,css,tailwind,javascript,react,nodejs,express,mongodb,mysql" />
+  </a>
+</p>
+
+### Current Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdullah-Al-Ovi&theme=dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdullah-Al-Ovi&theme=dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdullah-Al-Ovi&theme=dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdullah-Al-Ovi&theme=dark)
+
