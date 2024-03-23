@@ -29,15 +29,27 @@
 </p>
 
 ## 📋 Projects:
+### Vibin': 
+  * Frontend : ReactJs, Redux Toolkit, socket.io
+  * Backend: ExpressJs and Mongoose ODM.
+  * Authentication: Bcrypt(NPM package).
+  * Authorization : JWT
+  * Live Link: https://vibin1.netlify.app/ 
+### UVA Tracker: 
+  * Frontend : ReactJs
+  * Backend: N/A
+  * Authentication: N/A
+  * Authorization : N/A
+  * Live Link: https://uva-submission-list-and-contest-bu-cse-8.vercel.app/
 ### Shop Sync: 
   * Frontend : ReactJs
-  * Backend: NodeJs and MongoDb.
+  * Backend: ExpressJs and MongoDb.
   * Authentication: Firebae.
   * Authorization : JWT
   * Live Link: https://shopsync.surge.sh/
 ### Page Turner Library: 
   * Frontend : ReactJs
-  * Backend: NodeJs and MongoDb.
+  * Backend: ExpressJs and MongoDb.
   * Authentication: Firebae.
   * Authorization : JWT
   * Live Link: https://pageturnerlibrary.surge.sh/
@@ -45,6 +57,7 @@
   * Frontend : ReactJs
   * Backend: NodeJs and MongoDb.
   * Authentication: Firebae.
+  * Authorization : N/A
   * Live Link: https: https://trend-junction-shop.surge.sh/
 
     
