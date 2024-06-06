@@ -2,14 +2,12 @@
 
 ### 🚀 What I Do
 
-- 💻 Fullstack Developer specializing in MERN stack (MongoDB, Express.js, React.js, Node.js) and Next.js.
-- 🌐 Proficient in modern frontend technologies such as React.js and Next.js, ensuring scalable and maintainable code for web applications.
+- 💻 Fullstack Developer specializing in **MERN** stack (**MongoDB**, **Express.js**, **React.js**, **Node.js**) and **Next.js**.
+- 🌐 Proficient in modern frontend technologies such as **React.js** and **Next.js**, ensuring scalable and maintainable code for web applications.
 - 📱 Advocate of Mobile-First Development, ensuring seamless experiences across devices.
-- 🔄 Proficient in Redux for state management in web applications
+- 🔄 Proficient in **Redux** for state management in web applications
 - 🌐 Proficient in modern frontend technologies such as React.js and Next.js, ensuring scalable and maintainable code for web applications.
-
-- 🛠️Experienced in building robust backend/API solutions using Node.js and Express.js, with proficiency in database management systems like MySQL and MongoDB, adeptly utilizing Prisma ORM for seamless database interactions and Mongoose ODM for schema-based data modeling, ensuring efficient and structured data management.
-
+- 🛠️Experienced in building robust backend/API solutions using **Node.js** and **Express.js**, with proficiency in database management systems like **MySQL** and **MongoDB**, adeptly utilizing **Prisma ORM** for seamless database interactions and **Mongoose ODM** for schema-based data modeling, ensuring efficient and structured data management.
 
 ### 🛠️ Tech Stack
 <p align="center">
