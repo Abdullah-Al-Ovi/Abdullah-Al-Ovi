@@ -1,4 +1,4 @@
-![](https://github.com/Abdullah-Al-Ovi/Abdullah-Al-Ovi/blob/main/assets/github_cover.gif)
+![](https://github.com/Abdullah-Al-Ovi/Abdullah-Al-Ovi/blob/main/assets/github_cover1.gif)
 
 ### 🚀 What I Do
 
