@@ -20,7 +20,7 @@
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdullah-Al-Ovi&theme=dark) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdullah-Al-Ovi&theme=dark) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdullah-Al-Ovi&theme=dark) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdullah-Al-Ovi&theme=dark)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Abdullah-Al-Ovi/langs?time_range=one_year&theme=classic)] 
+![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Abdullah-Al-Ovi/langs?time_range=one_year&theme=classic) 
   
 </div>
 
